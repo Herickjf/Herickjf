@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Herickjf
-- 👀 I’m interested in Design UX/UI ! Artificial Intelligence!
+- 👀 I’m interested in Design UX/UI and Artificial Intelligence!
 - 🌱 I’m currently in a Computer Science College (UFPB)
 - 💞️ I’m looking to collaborate in projects and little jobs :)
 - 📫 Mail me in herick.jose08@hotmail.com
