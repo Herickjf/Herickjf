@@ -8,7 +8,7 @@ Computer Science student - Universidade Federal da Paraíba
 ## Estatistics: 
 
 <div>
-<img width="46.7%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herickjf&layout=compact&theme=nord&hide_border=true" alt="Herickjf's most languages">
+<img width="46.7%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herickjf&layout=compact&theme=nord&hide_border=true&cache_seconds=60" alt="Herickjf's most languages">
 </div>
 
 <hr>
