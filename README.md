@@ -8,3 +8,9 @@
 Herickjf/Herickjf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+<div>
+<img width="52%" src="https://github-readme-stats.vercel.app/api?username=Herickjf&show_icons=true&theme=nord&hide_border=true&rank_icon=github">
+<img width="46.7%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herickjf&layout=compact&theme=nord&hide_border=true" alt="j4marcos's most languages">
+</div>
