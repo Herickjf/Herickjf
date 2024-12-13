@@ -17,7 +17,7 @@ Computer Science student - Universidade Federal da Paraíba
 
 ### Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,ts,js,nodejs,java,python,elixir,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,js,nodejs,java,python,html,css)](https://skillicons.dev)
 
 ### Frameworks, Libs and Technologies:
 
