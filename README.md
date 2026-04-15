@@ -41,7 +41,4 @@ Sou entusiasta de **Machine Learning e Visão Computacional**, área na qual ven
 
 # 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Herickjf&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herickjf&layout=compact&theme=transparent&hide_border=true"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Herickjf&theme=highcontrast)](https://git.io/streak-stats)
