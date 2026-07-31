@@ -70,13 +70,3 @@ Sou entusiasta de **Machine Learning e Visão Computacional**, área na qual ven
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Herickjf\&theme=dark\&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
-
----
-
-# 🐍 Contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Herickjf/Herickjf/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-
-</div>
